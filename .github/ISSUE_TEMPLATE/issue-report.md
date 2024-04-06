@@ -11,9 +11,9 @@ assignees: ''
 Se espera
 
 # Comportamiento Actual
-Se esta presentando
+Se está presentando
 
-# Pasos para repoducir defecto
+# Pasos para reproducir defecto
 1. Paso
 2. Paso
 3. Paso
